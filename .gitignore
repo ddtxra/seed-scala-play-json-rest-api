@@ -1,0 +1,7 @@
+.sbtserver*
+logs
+target
+bin
+.classpath
+.project
+

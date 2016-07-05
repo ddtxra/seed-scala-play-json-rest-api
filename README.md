@@ -13,8 +13,12 @@ Simple REST API in Play using Java Objects
 ```shell
 activator run
 ```
-#IDE
+#Eclipse IDE
 ```
 activator eclipse 
 ```
+Scala Eclipse IDE 4.4.1 (if eclipse plugin does not set Java 8, set it up manually)
+
+ http://scala-ide.org/
+
 
