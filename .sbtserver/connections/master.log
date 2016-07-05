@@ -1,7 +1,0 @@
-New log file opened at Tue Jul 05 16:19:41 CEST 2016 by 41470@mac-097.isb-sib.ch
-Taking next connection to: 54165
-New client attempting to connect on port: 54166-54165
-  Address = /192.33.224.27:54165
-This client on port 54166 has uuid efac74f0-8170-4a60-a101-d1c30cd89f0b configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: play-fork-run-efac74f0-8170-4a60-a101-d1c30cd89f0b
-Taking next connection to: 54165
